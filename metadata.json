@@ -1,0 +1,9 @@
+{
+  "name": "Worldwide Social",
+  "description": "A futuristic social networking platform featuring Flame AI, real-time node broadcasting, live kinetic reels, and advanced content synthesis. Supports camera/mic for broadcasting and device storage for saving AI-generated artifacts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
